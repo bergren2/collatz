@@ -1,5 +1,7 @@
 # Collatz
 
+[![Build Status](https://travis-ci.org/bergren2/collatz.svg?branch=master)](https://travis-ci.org/bergren2/collatz)
+
 Ruby gem for playing around with Collatz numbers.
 
 ## Installation
