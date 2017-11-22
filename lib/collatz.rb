@@ -1,4 +1,4 @@
-require 'collatz/version'
+require "collatz/version"
 
 class Collatz
   include Comparable
